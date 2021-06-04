@@ -23,7 +23,7 @@ export const aboutData = {
   then I later fell in love with front end development, and soon after that mobile development.`,
   paragraphTwo: `I have a diverse skill set that includes but is not limited to React js, Node js, React Native, and Laravel, which I use to craft and build functional web and mobile apps.`,
   paragraphThree: 'Being a diligent, hardworking and result-oriented individual, I always work towards achieving the best result on each project I lay my hands on.',
-  // resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1E-ivd2cAPvJ2HA9_FBwcYagssrt4Muw1/view?usp=sharing', // if no resume, the button will not show up
 };
 
 
