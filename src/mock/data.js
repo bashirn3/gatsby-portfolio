@@ -3,8 +3,8 @@ import { nanoid } from 'nanoid';
 // HEAD DATA
 export const headData = {
   title: 'Bashir Sani - Software Engineer', // e.g: 'Name | Developer'
-  lang: '', // e.g: en, es, fr, jp
-  description: '', // e.g: Welcome to my website
+  lang: 'en', // e.g: en, es, fr, jp
+  description: 'Welcome to my portfolio website', // e.g: Welcome to my website
 };
 
 // HERO DATA
