@@ -36,6 +36,16 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'Project5.jpg',
+    title: 'Discord Clone',
+    info: `I wanted to see how close I can clone discord, thus this project was born. 
+    `,
+    info2: 'I used Reactjs, Redux, Firebase and google authentication for this project.',
+    url: 'https://discord-clone-dda4f.web.app/',
+    repo: 'https://github.com/bashirn3/discord-clone', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'Project3.jpg',
     title: 'Forex signal admin app',
     info: `A client of mine asked me to create an app that he can use to give out forex trading call signals to his students. This particular project was fun because I challenged myself to create a REST-Api from scratch,
@@ -60,7 +70,7 @@ export const projectsData = [
     img: 'Project1.JPG',
     title: 'Twitter clone',
     info: 'This was a fun little project I worked on. I wanted to see how close I can come to cloning my favorite social media app.',
-    info2: 'I used Reactjs, Firebase and Material Icons to work on this project.',
+    info2: 'I used Reactjs, Firebase and Material ui Icons to work on this project.',
     url: 'https://plasma-air-255314.web.app/',
     repo: 'https://github.com/bashirn3/twitter-clone', // if no repo, the button will not show up
   },
