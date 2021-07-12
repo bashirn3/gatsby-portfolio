@@ -37,7 +37,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'Project5.jpg',
-    title: 'Discord Clone',
+    title: 'Discord clone',
     info: `I wanted to see how close I can clone discord, thus this project was born. 
     `,
     info2: 'I used Reactjs, Redux, Firebase and google authentication for this project.',
