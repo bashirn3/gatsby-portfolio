@@ -74,15 +74,15 @@ export const projectsData = [
     url: 'https://plasma-air-255314.web.app/',
     repo: 'https://github.com/bashirn3/twitter-clone', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'Project2.JPG',
-    title: 'Breaking Bad character grid',
-    info: 'This was the first time I worked with an external api. I stumbled on an api that returns the character information of my favorite tv series, I wanted to see how I can create a front end that subscribes to it. Thus this project was born.',
-    info2: 'This project was created with Reactjs',
-    url: 'https://breaking-bad-character-grid.vercel.app/',
-    repo: 'https://github.com/bashirn3/breaking-bad-character-grid', // if no repo, the button will not show up
-  },
+  // {
+  //   id: nanoid(),
+  //   img: 'Project2.JPG',
+  //   title: 'Breaking Bad character grid',
+  //   info: 'This was the first time I worked with an external api. I stumbled on an api that returns the character information of my favorite tv series, I wanted to see how I can create a front end that subscribes to it. Thus this project was born.',
+  //   info2: 'This project was created with Reactjs',
+  //   url: 'https://breaking-bad-character-grid.vercel.app/',
+  //   repo: 'https://github.com/bashirn3/breaking-bad-character-grid', // if no repo, the button will not show up
+  // },
 ];
 
 // CONTACT DATA
