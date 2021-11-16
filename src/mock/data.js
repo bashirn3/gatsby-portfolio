@@ -35,6 +35,17 @@ export const aboutData = {
 // PROJECTS DATA
 export const projectsData = [
   {
+  id: nanoid(),
+  img: 'Project6.jpg',
+  title: 'Cryto Stats',
+  info: `With the upsurge of cryptocurrencies and the manner in which they are changing the financial landscape, 
+  I wanted to create an application that will expose other people to the opportunities they provide`,
+  info2: 'The app was created with ReactJs, Redux Toolkit and Ant Design',
+  url: '',
+  repo: 'https://github.com/bashirn3/cryptoapp', // if no repo, the button will not show up
+},
+  {
+    
     id: nanoid(),
     img: 'Project5.jpg',
     title: 'Discord clone',
